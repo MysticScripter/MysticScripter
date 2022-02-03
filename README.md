@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there 👋,
 
-<!--
-**MysticScripter/MysticScripter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> MysticScripter </h1>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MysticScripter" alt="MysticScripter" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### whoami
+<p> MysticScripter, CyberAI enthusiast and CTF Player at <a href="https://twitter.com/cyb0ts">Cyb0ts</a> </p>
+
+### send a message
+
+Email: mysticscripter@gmail.com
+
+Twitter: <a href="https://twitter.com/MysticScripter">MysticScripter</a>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=MysticScripter&show_icons=true&count_private=true" width="49.5%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticScripter&layout=compact" width="49%">
