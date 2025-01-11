@@ -15,4 +15,4 @@ Twitter: <a href="https://twitter.com/MysticScripter">MysticScripter</a>
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=MysticScripter&show_icons=true&count_private=true" width="49.5%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticScripter&layout=compact" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=MysticScripter&show_icons=true&count_private=true" width="49%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticScripter&layout=compact" width="49%">
